@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "视频播放器----解码器", "视频播放器----解码器\视频播放器----解码器.vcxproj", "{DD537DC6-0BCD-465D-88EA-B7B25379D6FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "视频播放器----播放器(SDL跨版本)", "视频播放器----播放器(SDL跨版本)\视频播放器----播放器(SDL跨版本).vcxproj", "{4A2B74D8-275C-4722-A95E-5F1B4DF416AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最简单的视频播放器(完整版SDL跨版本)", "最简单的视频播放器(完整版SDL跨版本)\最简单的视频播放器(完整版SDL跨版本).vcxproj", "{CBC44EC6-1A9D-4E98-B45E-9ECCE1B93C9E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "音频播放器----播放器(SDL跨版本)", "音频播放器----播放器(SDL跨版本)\音频播放器----播放器(SDL跨版本).vcxproj", "{A5EDE9F0-5345-4182-B383-9E42AE9D3F57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "音频播放器----解码器", "音频播放器----解码器\音频播放器----解码器.vcxproj", "{0C336EEC-A055-498A-8D25-ABBFA02D45BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "视音播放器----播放器(SDL跨版本)", "视音播放器----播放器(SDL跨版本)\视音播放器----播放器(SDL跨版本).vcxproj", "{D0C41D0F-326E-44BF-940C-A75C9D49DF8D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "视音播放器----解码器", "视音播放器----解码器\视音播放器----解码器.vcxproj", "{FAC4C96C-5BB6-47EE-9B9F-1B4F8AA0DE6E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最简单的音频播放器(完整版SDL跨版本)", "最简单的音频播放器(完整版SDL跨版本)\最简单的音频播放器(完整版SDL跨版本).vcxproj", "{8474BE4D-94FB-4951-B48A-5838ECA74A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD537DC6-0BCD-465D-88EA-B7B25379D6FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD537DC6-0BCD-465D-88EA-B7B25379D6FA}.Debug|Win32.Build.0 = Debug|Win32
+		{DD537DC6-0BCD-465D-88EA-B7B25379D6FA}.Release|Win32.ActiveCfg = Release|Win32
+		{DD537DC6-0BCD-465D-88EA-B7B25379D6FA}.Release|Win32.Build.0 = Release|Win32
+		{4A2B74D8-275C-4722-A95E-5F1B4DF416AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4A2B74D8-275C-4722-A95E-5F1B4DF416AD}.Debug|Win32.Build.0 = Debug|Win32
+		{4A2B74D8-275C-4722-A95E-5F1B4DF416AD}.Release|Win32.ActiveCfg = Release|Win32
+		{4A2B74D8-275C-4722-A95E-5F1B4DF416AD}.Release|Win32.Build.0 = Release|Win32
+		{CBC44EC6-1A9D-4E98-B45E-9ECCE1B93C9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBC44EC6-1A9D-4E98-B45E-9ECCE1B93C9E}.Debug|Win32.Build.0 = Debug|Win32
+		{CBC44EC6-1A9D-4E98-B45E-9ECCE1B93C9E}.Release|Win32.ActiveCfg = Release|Win32
+		{CBC44EC6-1A9D-4E98-B45E-9ECCE1B93C9E}.Release|Win32.Build.0 = Release|Win32
+		{A5EDE9F0-5345-4182-B383-9E42AE9D3F57}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5EDE9F0-5345-4182-B383-9E42AE9D3F57}.Debug|Win32.Build.0 = Debug|Win32
+		{A5EDE9F0-5345-4182-B383-9E42AE9D3F57}.Release|Win32.ActiveCfg = Release|Win32
+		{A5EDE9F0-5345-4182-B383-9E42AE9D3F57}.Release|Win32.Build.0 = Release|Win32
+		{0C336EEC-A055-498A-8D25-ABBFA02D45BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C336EEC-A055-498A-8D25-ABBFA02D45BA}.Debug|Win32.Build.0 = Debug|Win32
+		{0C336EEC-A055-498A-8D25-ABBFA02D45BA}.Release|Win32.ActiveCfg = Release|Win32
+		{0C336EEC-A055-498A-8D25-ABBFA02D45BA}.Release|Win32.Build.0 = Release|Win32
+		{D0C41D0F-326E-44BF-940C-A75C9D49DF8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0C41D0F-326E-44BF-940C-A75C9D49DF8D}.Debug|Win32.Build.0 = Debug|Win32
+		{D0C41D0F-326E-44BF-940C-A75C9D49DF8D}.Release|Win32.ActiveCfg = Release|Win32
+		{D0C41D0F-326E-44BF-940C-A75C9D49DF8D}.Release|Win32.Build.0 = Release|Win32
+		{FAC4C96C-5BB6-47EE-9B9F-1B4F8AA0DE6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAC4C96C-5BB6-47EE-9B9F-1B4F8AA0DE6E}.Debug|Win32.Build.0 = Debug|Win32
+		{FAC4C96C-5BB6-47EE-9B9F-1B4F8AA0DE6E}.Release|Win32.ActiveCfg = Release|Win32
+		{FAC4C96C-5BB6-47EE-9B9F-1B4F8AA0DE6E}.Release|Win32.Build.0 = Release|Win32
+		{8474BE4D-94FB-4951-B48A-5838ECA74A8D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8474BE4D-94FB-4951-B48A-5838ECA74A8D}.Debug|Win32.Build.0 = Debug|Win32
+		{8474BE4D-94FB-4951-B48A-5838ECA74A8D}.Release|Win32.ActiveCfg = Release|Win32
+		{8474BE4D-94FB-4951-B48A-5838ECA74A8D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
